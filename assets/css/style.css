@@ -1,11 +1,11 @@
 @charset "UTF-8";
 /*-----------------------------------------------------------------------------------
 
-    Theme Name: Geekfolio
+    Theme Name: Coach Tanvir Ahmed
     Theme URI: http://
     Description: Creative Agency & Portfolio
-    Author: UI-ThemeZ
-    Author URI: http://themeforest.net/user/UI-ThemeZ
+    Author: Afriams Enterprise
+    Author URI: http://web.afriams.com
     Version: 1.0
 
 -----------------------------------------------------------------------------------*/
@@ -19,7 +19,6 @@
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   outline: none;
-  list-style: none;
 }
 
 body {
